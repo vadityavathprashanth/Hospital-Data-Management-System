@@ -71,10 +71,7 @@ The solution includes:
 4. Deploy the database on AWS or a local environment.
 5. Visualize data using Tableau by connecting it to the PostgreSQL database.
 
-## Team Members
-- **Prashanth Vadityavath**
-- **Sai Manikanta Battula**
-- **Hanok Naidu**
+
 
 ## License
 This project is licensed under the MIT License.
