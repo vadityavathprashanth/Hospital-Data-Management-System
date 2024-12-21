@@ -1,9 +1,5 @@
 # Hospital-Data-Management-System
 
-Here is the suggested README content for the Hospital Data Modeling project to post on GitHub:
-
-
-# Hospital Data Modeling and Analysis
 
 ## Project Overview
 
